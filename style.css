@@ -65,3 +65,16 @@ h1{
     color:skyblue;
 }
 
+#baby-dev {
+    
+    margin-left:5%;
+    margin-right:5%;
+    padding-left:20px;
+    width:40%;
+    box-shadow:10px 10px 40px grey;
+    border-radius:10px;
+    border-left:10px solid red;
+  
+}
+
+
